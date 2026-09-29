@@ -1,0 +1,32 @@
+# TZ.G Solutions - Decap CMS READY configuration
+# Version 10.0
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY
+  branch: main
+  base_url: https://YOUR-OAUTH-ENDPOINT.example
+
+media_folder: "documents/financial-statements"
+public_folder: "/documents/financial-statements"
+publish_mode: simple
+
+collections:
+  - name: "financial_archive"
+    label: "Financial Statements & Announcements"
+    files:
+      - name: "financial_documents"
+        label: "Documents"
+        file: "content/financial-documents.json"
+        format: "json"
+        fields:
+          - label: "Documents"
+            name: "documents"
+            widget: "list"
+            summary: "{{fields.year}} - {{fields.titleEl}}"
+            fields:
+              - { label: "Year", name: "year", widget: "number", value_type: "int", min: 2026 }
+              - { label: "Title (Greek)", name: "titleEl", widget: "string" }
+              - { label: "Title (English)", name: "titleEn", widget: "string" }
+              - { label: "Publication date", name: "date", widget: "string", hint: "Display format, e.g. 30/06/2027" }
+              - { label: "PDF file", name: "path", widget: "file" }
+              - { label: "File size", name: "size", widget: "string", required: false, hint: "Optional display text, e.g. 1.8 MB" }
