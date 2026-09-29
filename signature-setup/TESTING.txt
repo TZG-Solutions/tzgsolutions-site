@@ -1,0 +1,13 @@
+TZ.G v2.6.2 Crisp testing
+
+1. Confirm these hosted assets open in browser:
+   /email-signature/phone-v2.6.2.png
+   /email-signature/email-v2.6.2.png
+   /email-signature/web-v2.6.2.png
+   /email-signature/vcard-v2.6.2.png
+   /email-signature/gold-line-v2.6.2.png
+2. Confirm /contact/georgios-tzourmanas.vcf opens.
+3. Create a NEW Spark signature from signature-hosted.html.
+4. Send tests to Gmail Web/Desktop and Gmail iPhone dark mode.
+5. Verify phone, email, site, QR, vCard icon and Scan me text are clickable.
+6. Verify both gold separators remain horizontal in mobile dark mode.
