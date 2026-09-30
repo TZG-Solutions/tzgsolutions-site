@@ -1,5 +1,2 @@
-TZ.G Solutions Email Signature
-Version: 2.6.2
-Profile: Crisp / Retina / Spark Compact
-Status: Production candidate
-Date: 2026-09-29
+Email signature: 2.6.9 FINAL
+Website: 10.0.4B Mailto (unchanged)

@@ -1,0 +1,8 @@
+TZ.G Solutions — Email Signature 2.6.9 FINAL
+Εγκεκριμένη έκδοση μετά από δοκιμές χρήστη σε Gmail/Spark desktop και iPhone dark mode. QR: αποκωδικοποίηση τεσσάρων πραγματικών screenshots και επιβεβαίωση λειτουργίας από τον χρήστη.
+Σχεδίαση: navy κάρτα, logo αριστερά στο κέντρο, χρυσά διαχωριστικά, τίτλος Founder & CEO ως εικόνα με alt text, Senior Solutions Architect, διαφανές TZ.G watermark και QR 72px με λευκό padding 8px.
+Χρήση: ανοίξτε signature-setup/signature-hosted.html, αντιγράψτε την αποδοσμένη κάρτα στο Spark. Η τοπική έκδοση προορίζεται για προεπισκόπηση.
+Οι εικόνες χρησιμοποιούν HTTPS GitHub raw URLs κλειδωμένα σε συγκεκριμένο commit. Οι σύνδεσμοι site/vCard παραμένουν στο www.tzgsolutions.gr. Δεν αλλάζουν τα υπάρχοντα μηνύματα ούτε ενημερώνεται αυτόματα μια ήδη επικολλημένη υπογραφή Spark.
+Συμβατότητα: διατηρούνται προηγούμενα versioned HTML, assets και backups στο repository. Η κύρια hosted και local σελίδα ενημερώνονται σε 2.6.9.
+Το site παραμένει 10.0.4B Mailto. Δεν αλλάζουν index.html, CNAME ή στοιχεία επαφής/vCard.
+Όρια ελέγχου: Android/Outlook και άλλες εφαρμογές δεν έχουν επιβεβαιωθεί. Browser έλεγχοι πλάτους 320/360/390/650px πέρασαν.
