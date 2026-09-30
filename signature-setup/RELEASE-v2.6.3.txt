@@ -1,0 +1,11 @@
+Email signature v2.6.3 Navy Card
+Site remains v10.0.4B Mailto; site index and contact flow unchanged.
+Current hosted installer: signature-hosted.html
+Versioned installer: signature-hosted-v2.6.3.html
+Previous hosted installer: signature-hosted-v2.6.2.html
+New local preview: signature-local-v2.6.3.html
+Legacy signature-local.html, VERSION.txt, TESTING.txt and assets/ remain the v2.6.2 setup for compatibility.
+All legacy image URLs, QR, vCard and previous backup remain unchanged.
+Original v2.6.3 delivery ZIP is under /backups/ (its preparation notes describe pre-deployment status).
+Install the new rendered hosted signature in Spark; existing pasted signatures do not update automatically.
+Browser previews checked at desktop and 390px mobile. Spark/Gmail/Outlook and dark mode rendering remain unverified. Clients may omit background images or media queries; navy fallback color is supplied.
