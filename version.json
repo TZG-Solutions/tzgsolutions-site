@@ -1,0 +1,12 @@
+{
+  "site": "10.0.6B",
+  "release": "10.0.6",
+  "variant": "MAILTO",
+  "signature": "2.6.9",
+  "date": "2026-10-04",
+  "baselineCommit": "b5d3e7575243c2708116459141e0c5e64f3f18fe",
+  "changes": [
+    "Company information updated in Greek and English: sole member address, contribution type, total guarantee contributions.",
+    "Includes all previously deployed assets and signature 2.6.9."
+  ]
+}

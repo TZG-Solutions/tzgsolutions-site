@@ -1,2 +1,2 @@
 Email signature: 2.6.9 FINAL
-Website: 10.0.4B Mailto (unchanged)
+Website bundle: 10.0.6B MAILTO
